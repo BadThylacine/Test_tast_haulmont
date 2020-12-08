@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="crowd" uuid="30f4d643-682d-410d-82a1-a397902bcb4f">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:E:/Files/hsqldb-2.5.0/hsqldb/crowd/crowd</jdbc-url>
+    </data-source>
+  </component>
+</project>
